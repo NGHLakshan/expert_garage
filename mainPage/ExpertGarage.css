@@ -39,7 +39,6 @@ html{
   font-size: 2.1rem;
   margin-left: 3rem;
   position: relative;
-
 }
 .navbar a:after{
   content: '';
