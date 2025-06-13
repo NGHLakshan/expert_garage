@@ -78,17 +78,17 @@ if (isset($_POST['login'])) {
         
         header {
                 position: fixed;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            padding: 20px 10%;
-            background: rgba(0, 0, 0, 0.8);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            z-index: 100;
-            backdrop-filter: blur(10px);
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                padding: 20px 10%;
+                background: rgba(0, 0, 0, 0.8);
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                z-index: 100;
+                backdrop-filter: blur(10px);
         }
         
         .logo {
@@ -117,7 +117,7 @@ if (isset($_POST['login'])) {
             text-decoration: none;
             margin: 0 8px;
             transition: 0.5s;
-margin-right: 5px;
+            margin-right: 5px;
         }
         
         .social a:hover {
